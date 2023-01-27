@@ -1,1 +1,1 @@
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+**Welcome Human #:**  ![Visitor Count](https://profile-counter.glitch.me/ninken/count.svg)
